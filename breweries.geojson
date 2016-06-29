@@ -11,10 +11,26 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "title": "10 Barrel Brewing", 
+                "description": 1, 
+                "marker-symbol": "beer", 
+                "marker-size": "medium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6820366, 
+                    45.5245061
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "marker-size": "medium", 
                 "description": 1, 
                 "marker-symbol": "beer", 
-                "title": "10 Barrel Brewing"
+                "title": "Deschutes Brewery Portland Public House"
             }
         }
     ]
