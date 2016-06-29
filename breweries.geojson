@@ -1,4 +1,21 @@
 {
-    "type": "FeatureCollection",
-    "features": []
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68555300000003, 
+                    45.525943
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "marker-size": "medium", 
+                "description": 1, 
+                "marker-symbol": "beer", 
+                "title": "10 Barrel Brewing"
+            }
+        }
+    ]
 }
